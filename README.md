@@ -1,0 +1,2 @@
+# execute_cmd
+通过发送email方式或web方式执行系统命令并返回结果
